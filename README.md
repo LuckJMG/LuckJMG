@@ -1,6 +1,8 @@
 # 💫About Me :
 👨‍💻 Computer Science Student - UTFSM 
+
 🕹️ Game Developer - Unity 
+
 "𝒪𝓃𝑒 𝓉𝒽𝒾𝓃𝑔 𝒶𝓉 𝒶 𝓉𝒾𝓂𝑒"
 
 ## 🌐Socials
