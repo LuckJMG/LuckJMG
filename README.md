@@ -1,25 +1,27 @@
-Hi 👋 My name is LuckJMG
-========================
+# Hi, I'm LuckJMG 👋
 
-UTFSM Computer Science Student
-------------------------------
+> Because things should be Free, Simple and Private.
 
-"Be simple, but be you."
+Computer Science student at the Federico Santa María University. I really like learning and coding all sort of things, from Science and Math to Literature and Art, and also sharing all the interesting things I learn (currently working on how to share them).
 
-### Skills
+## I have learned some things...
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+**Languages:**
+- **🐍 Python**, my first language!!!
+- **💻 C++**, I had my fair amount of `core dumped`
+- **🐹 Go**, `if (err != nil) { fmt.Println("I didn't expect this") }`
+- **🐚 Shell**, Linux for programming >>>>
+- **⚡ JavaScript**, I really hate JavaScript, but its the only way...
+- **🌐 HTML5**, well I have made webpages
+- **🎨 CSS3**, styling isn't my fortitude, but I defend myself
+- **📝 Markdown**, I LOVE MARKDOWN
 
-### Socials
+**Tools:**
+- **🧩 Neovim**, my main editor 'cause I love customizing my tools
+- **🌳 Git**, still struggle with merges
+- **🐋 Docker**, don't like installing dependencies
 
-<p align="left"> <a href="https://www.github.com/LuckJMG" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/luck.jmg" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+## Contact Me!
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LuckJMG"><img src="https://github-readme-stats.vercel.app/api?username=LuckJMG&show_icons=true&hide=&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="LuckJMG's GitHub stats" /></a>
-
-<a href="http://www.github.com/LuckJMG"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LuckJMG&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+- This is my [LinkedIn](https://www.linkedin.com/in/luckjmg)!
+- Or you can simply [mail me](mailto:lucas.mosquera13@gmail.com)
