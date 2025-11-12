@@ -13,7 +13,7 @@ Computer Science student at the Federico Santa María University. I really like 
 - **🐚 Shell**, Linux for programming >>>>
 - **⚡ JavaScript**, I really hate JavaScript, but its the only way...
 - **🌐 HTML5**, well I have made webpages
-- **🎨 CSS3**, styling isn't my fortitude, but I defend myself
+- **🎨 CSS3**, styling isn't my strength, but I defend myself
 - **📝 Markdown**, I LOVE MARKDOWN
 
 **Tools:**
